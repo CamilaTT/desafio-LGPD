@@ -9,9 +9,9 @@
 
 <h2>Objetivos</h2> 
 
-  - [ ] Incluir mensagem de consentimento
-  - [ ] Incluir hiperlink para direcionar o usuário a página de "Política de Privacidade" da Ford 
-  - [ ] Incluir 2 checkboxes 
+  - [x] Incluir mensagem de consentimento
+  - [x] Incluir hiperlink para direcionar o usuário a página de "Política de Privacidade" da Ford 
+  - [x] Incluir 2 checkboxes 
   - [ ] Impedir que o formulário seja enviado caso o checkbox de aceite dos termos não esteja marcado  
   
 
