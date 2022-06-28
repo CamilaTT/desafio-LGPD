@@ -5,7 +5,7 @@
 </div>
 
 <h2>Visão geral</h2>
-<p align="justify">Na Lei Geral de Proteção de Dados (LGPD), o consentimento do titular dos dados é considerado elemento essencial para o tratamento. Desse modo, o objetivo desse desafio é inserir uma mensagem de consentimento na página de contato (formulário) da Ford, criada anteriormente, juntamente com 2 checkboxes. Essa configuração servirá para verificar se o usuário da aplicação está de acordo com a coleta de dados pessoais e a política de privacidade da empresa, que será inserida também na página, através de um hiperlink.>
+<p align="justify">Na Lei Geral de Proteção de Dados (LGPD), o consentimento do titular dos dados é considerado elemento essencial para o tratamento. Desse modo, o objetivo desse desafio é inserir uma mensagem de consentimento na página de contato (formulário) da Ford, criada anteriormente, juntamente com 2 checkboxes. Essa configuração servirá para verificar se o usuário da aplicação está de acordo com a coleta de dados pessoais e a política de privacidade da empresa, que será inserida também na página, através de um hiperlink.
 
 <h2>Objetivos</h2> 
 
