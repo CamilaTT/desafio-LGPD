@@ -22,11 +22,11 @@ function Post(form) {
             form.elements.namedItem("mensagem").value
         )
 
-     Validation()
+     Validation(form)
 }
 
-function Validation() {
-    if (prefContato.value != "COMO DESEJA SER CONTATADO*" && tipoContato.value != "TIPO DE CONTATO*") {
+function Validation(form) {
+    if (prefContato.value != "COMO DESEJA SER CONTATADO*" && tipoContato.value != "TIPO DE CONTATO*" && checkbox1.checked) {
         Enviar();
         form.reset();
     } else {
@@ -43,7 +43,7 @@ function Validation() {
     return;
 }
 
-function Enviar(data) {
+function Enviar() {
     let mensagemSucesso = document.getElementById("mensagemSucessoOuErro"); 
     mensagemSucesso.textContent = "Obrigado, sr(a) " + nome.value + ', os seus dados foram encaminhados com sucesso!'; 
 
