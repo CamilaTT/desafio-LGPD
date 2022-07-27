@@ -17,5 +17,5 @@
   - [x] Impedir que o formulário seja enviado caso o checkbox de aceite dos termos não esteja marcado.
   
  <br><br>
-  <p><em>Obs.: Este não se trata de um projeto oficial da Ford, sim de um projeto realizado durante um programa patrocinado pela empresa.</em></p>
+  <p><em>Obs.: Este não se trata de um projeto oficial da Ford, sim de um projeto realizado durante um programa patrocinado pela empresa!</em></p>
   
